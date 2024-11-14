@@ -1,8 +1,8 @@
-#Introduction and Over view
-Part 1:Generative AI Solution Development 
+##Introduction and Over view##
+##Part 1:Generative AI Solution Development##
 the retrieval-augmented generation (RAG) method, a contextual generative AI solution. It covers:
 
-.RAG architecture
+.**RAG architecture**
 
 The importance of contextual information using Mosaic AI Playground
 
